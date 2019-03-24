@@ -1,0 +1,19 @@
+{
+  "name": "application-name",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^1.0.0",
+    "express": "^3.5.1",
+    "express-myconnection": "^1.0.4",
+    "formidable": "^1.2.1",
+    "jade": "*",
+    "method-override": "^3.0.0",
+    "moment-timezone": "^0.5.23",
+    "mysql": "^2.2.0"
+  }
+}
